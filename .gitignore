@@ -9,3 +9,17 @@ cabal-dev
 .git/hooks/post-commit
 system
 forum
+application/config/b_config.php
+application/config/config.php
+application/config/database.php
+application/config/bitly.php
+application/config/s3.php
+application/config/tweet.php
+application/libraries/Flickr_library.php
+application/libraries/Foursquare_library.php
+application/libraries/Tumblr_library.php
+application/libraries/Upcoming_library.php
+application/libraries/Wordpress_library.php
+application/libraries/Youtube_library.php
+application/log/log*
+application/models/facebook_model.php
