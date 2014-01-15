@@ -5,3 +5,7 @@ cabal-dev
 *.chi
 *.chs.h
 .virthualenv
+.DS_Store
+.git/hooks/post-commit
+system
+forum
