@@ -1,0 +1,7 @@
+form span.buttons input{height:12px;}
+#hero #headlines .headline h1 {font-style:normal !important;}
+nav#photoGallery .thumbs .thumbWrap{padding-left:3% !important;}
+nav#photoGallery .thumbs .thumbWrap a img:hover{border: 1px solid #fff; margin:-1px 0 0 -1px;}
+
+#compare #wrapper #content #compareTable .cta{width:25% !important; background:none !important;}
+#compare #wrapper #content #compareTable .cta .cellWrap{ background:none !important;}

@@ -1,0 +1,35 @@
+//
+
+// Layout adjustments for screen sizes less than 1024px wide
+
+@mid-main:500px;
+@mid-aside: 100px;
+@mid-context:@mid-main + @mid-aside;
+@mid-font-context:10px;
+
+@media (max-width: 1024px){
+	
+	body{
+
+		
+		
+		#wrapper{
+			width:@mid-context;
+			
+			#content{width:@mid-context;}
+		}
+	}
+	
+
+	
+	#pageHeader {
+		width: 100%;
+	}
+	#pagecontrol {
+		width: 100%;
+	}
+
+
+
+
+}

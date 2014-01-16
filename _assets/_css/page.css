@@ -1,0 +1,88 @@
+html, body {
+	background: #fff;
+}
+
+#main {
+	width: 845px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	margin: 0 auto;
+}
+
+#section {
+	font-family: myriad-pro-condensed-1, myriad-pro-condensed-2;
+	padding-bottom: 50px;
+}
+
+#section h1 {
+	font-size: 48px;
+}
+
+#section .content  h1, #section .content  h2 {
+	font-size: 24px;
+}
+
+#section h3 {
+	margin: 0;
+	font-weight: bold;
+}
+
+#section h1 a, #nav a, #main h1 a {
+	text-decoration: none;
+	color: #444444;
+}
+
+#section h1 a:hover, #nav a:hover, #main h1 a:hover {
+	color: #036;
+}
+
+#section p, .content p {
+	
+	font-size: 16px;
+	margin: 1em 0;
+}
+
+article {
+	padding-bottom: 40px;
+}
+
+
+
+.imageWide {
+	width: 845px;
+	margin-bottom: 40px;
+}
+
+
+.imageLeftWide {
+	float: left;
+	width: 570px;
+	margin-bottom: 40px;
+}
+
+#section .imageLeftWide p, #section .imageLeftWide h3 {
+	margin: 0;
+	font-size: 88%;
+}
+
+.imageLeftSmall {
+	float: left;
+	width: 285px;
+	margin-bottom: 40px;
+}
+
+.imageRightSmall {
+	float: right;
+	width: 285px;
+	text-align: right;
+	margin-bottom: 40px;
+}
+
+
+img.shadow {
+	box-shadow: 0 5px 13px #ccc;
+	-webkit-box-shadow: 0 5px 13px #ccc;
+}
+
+
+
