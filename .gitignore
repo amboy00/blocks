@@ -15,6 +15,7 @@ application/config/database.php
 application/config/bitly.php
 application/config/s3.php
 application/config/tweet.php
+application/libraries/Phpbb_library.php
 application/libraries/Flickr_library.php
 application/libraries/Foursquare_library.php
 application/libraries/Tumblr_library.php
